@@ -7,7 +7,7 @@ Each task helped me strengthen my understanding of data preprocessing, model bui
 
 ## Intern Details
 
-- Name: Anushka Gulia  
+- Name: Anushka   
 - Internship Domain: Data Science  
 - Internship Provider: [CodSoft](https://www.codsoft.in)  
 - Duration: 15th june,2025 to 15th July,2025  
@@ -58,7 +58,7 @@ Each task helped me strengthen my understanding of data preprocessing, model bui
 
 **Dataset:** [Kaggle - Iris Dataset](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
 
-> 📁 [Click here for Iris Project Folder](./Iris-Flower-Classification)
+> 📁 [Click here for Iris Project Folder]( https://github.com/Anushka-gulia/CodSoft/tree/CodSoft/Task%203%20-%20Iris%20flower%20classification )
 
 ---
 
@@ -66,7 +66,12 @@ Each task helped me strengthen my understanding of data preprocessing, model bui
 
 Each project includes a demo video showcasing the model workflow, code walkthrough, and results.
 
-🔗 [Link to Project Demos on LinkedIn](#) *(Update with your post/video links)*  
+Task 1- Titanic survival prediction 
+Demo video link: https://www.linkedin.com/posts/anushka-gulia-478106326_codsoft-datascience-machinelearning-activity-7349493664672362496-t-rI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFI91xwBE6ISeZvYC5kxcw2BzyVWL_EQcuI 
+Task 2- Movie rating prediction
+Demo video link:
+Task 3- Iris flower classification 
+Demo video link:
 Don't forget to check out the videos tagged with **#codsoft**!
 
 ---
