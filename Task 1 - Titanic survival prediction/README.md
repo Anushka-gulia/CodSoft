@@ -55,12 +55,14 @@ python demo.py
 ---
 
 ## Demo Video
-👉 Video link to be added after publishing on LinkedIn
+👉 https://www.linkedin.com/posts/anushka-gulia-478106326_codsoft-datascience-machinelearning-activity-7349493664672362496-t-rI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFI91xwBE6ISeZvYC5kxcw2BzyVWL_EQcuI
 
 ✍️ Author
 Anushka Gulia
 📧 Email: anushlagulia04@gmail.com
+
 🔗 LinkedIn: www.linkedin.com/in/anushka-gulia-478106326 
+
 🐙 GitHub: https://github.com/Anushka-gulia 
 
 Hashtags
