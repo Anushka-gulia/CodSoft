@@ -57,7 +57,7 @@ python demo.py
 ## Demo Video
 👉 https://www.linkedin.com/posts/anushka-gulia-478106326_codsoft-datascience-machinelearning-activity-7349493664672362496-t-rI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFI91xwBE6ISeZvYC5kxcw2BzyVWL_EQcuI
 
-✍️ Author
+## ✍Author
 Anushka Gulia
 📧 Email: anushlagulia04@gmail.com
 
@@ -65,7 +65,7 @@ Anushka Gulia
 
 🐙 GitHub: https://github.com/Anushka-gulia 
 
-Hashtags
+## Hashtags
 #CodSoft #DataScience #MachineLearning #Python #Internship #TitanicPrediction #LogisticRegression
 
-⭐ Thanks to CodSoft for the opportunity to learn and apply data science skills through real-world tasks.
+## ⭐ Thanks to CodSoft for the opportunity to learn and apply data science skills through real-world tasks.
