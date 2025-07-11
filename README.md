@@ -43,7 +43,7 @@ Each task helped me strengthen my understanding of data preprocessing, model bui
 
 **Dataset:** [Kaggle - IMDb Indian Movies](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)
 
-> 📁 [Click here for Movie Rating Project Folder](./Movie-Rating-Prediction)
+> 📁 [Click here for Movie Rating Project Folder]( https://github.com/Anushka-gulia/CodSoft/tree/CodSoft/Task%202%20-%20Movie%20rating%20prediction )
 
 ---
 
