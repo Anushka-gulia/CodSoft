@@ -73,10 +73,6 @@ precision recall f1-score support
 3. Run the script with:
 python iris_classification.py
 Ensure the required libraries are installed:
-
-bash
-Copy
-Edit
 pip install pandas numpy matplotlib seaborn scikit-learn
 ##  Demo Video
 📽️ Video demo link to be added here (LinkedIn or YouTube)
