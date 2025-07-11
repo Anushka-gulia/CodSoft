@@ -28,7 +28,7 @@ Each task helped me strengthen my understanding of data preprocessing, model bui
 
 **Dataset:** [Kaggle - Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
-> 📁 [Click here for Titanic Project Folder](./Titanic-Survival-Prediction)
+> 📁 [Click here for Titanic Project Folder]( https://github.com/Anushka-gulia/CodSoft/tree/CodSoft/Task%201%20-%20Titanic%20survival%20prediction )
 
 ---
 
