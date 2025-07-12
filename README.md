@@ -69,7 +69,7 @@ Each project includes a demo video showcasing the model workflow, code walkthrou
 Task 1- Titanic survival prediction 
 Demo video link: https://www.linkedin.com/posts/anushka-gulia-478106326_codsoft-datascience-machinelearning-activity-7349493664672362496-t-rI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFI91xwBE6ISeZvYC5kxcw2BzyVWL_EQcuI 
 Task 2- Movie rating prediction
-Demo video link:
+Demo video link: https://www.linkedin.com/posts/anushka-gulia-478106326_codsoft-machinelearning-python-activity-7349771652072660992-amwq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFI91xwBE6ISeZvYC5kxcw2BzyVWL_EQcuI 
 Task 3- Iris flower classification 
 Demo video link:
 Don't forget to check out the videos tagged with **#codsoft**!
