@@ -1,79 +1,89 @@
-#  Task 2 - Movie Rating Prediction
+#  Task 2 - Movie Rating Classification
 
-This project is part of my **Data Science Internship at CodSoft**, where I built a machine learning model to predict IMDb ratings of Indian movies based on features like Genre, Director, Cast, Year, Votes, and Duration.
+This project is part of my **Data Science Internship at CodSoft**, where I built a machine learning model to **classify IMDb ratings** of Indian movies into **high-rated (≥7)** or **low-rated (<7)** categories based on features like Genre, Director, Cast, Year, Votes, and Duration.
 
 ---
 
-##  Objective
+## 🎯 Objective
 
-To predict movie ratings using a **Random Forest Regressor** model on the IMDb India dataset. The goal is to understand how various factors like genre, director, actors, votes, and duration affect the movie's IMDb score.
+To predict whether a movie is **high-rated or low-rated** using a **Random Forest Classifier** on the IMDb India dataset.  
+The goal is to explore how various movie features affect the classification of IMDb scores.
 
 ---
 
 ##  Dataset
 
-- **Source**: IMDb India Movies Dataset
+- **Source**: IMDb India Movies Dataset  
 - **File Used**: `IMDb Movies India.csv`
 
-###  Features in Dataset:
+### Features in Dataset:
 - **Genre**
 - **Director**
 - **Actor 1**, **Actor 2**, **Actor 3**
-- **Votes** (converted from comma-separated strings to numeric)
+- **Votes** (converted from comma-separated string to numeric)
 - **Year**
 - **Duration** (in minutes, cleaned and converted)
-- **Rating** (Target variable)
+- **Rating** (used to generate a binary target variable)
 
 ---
 
-##  Technologies Used
+## Technologies Used
 
 - **Python**
-- **Pandas** – data cleaning & preparation
-- **Scikit-learn** – model training & evaluation
-- **RandomForestRegressor** – ML model used for prediction
+- **Pandas** – data cleaning & preparation  
+- **Scikit-learn** – model building & evaluation  
+- **RandomForestClassifier** – machine learning model used  
 
 ---
 
 ##  Workflow
 
-1. Load dataset with encoding (`latin1`)
-2. Clean column names and drop rows with missing ratings
-3. Convert `Votes` and `Duration` from string to float
-4. Encode categorical columns (Genre, Director, Actors)
-5. Select features and target
-6. Train/test split (80/20)
-7. Model training using `RandomForestRegressor`
-8. Evaluate with MSE and R² Score
+1. Load dataset with appropriate encoding (`ISO-8859-1`)
+2. Drop rows with missing `Rating`
+3. Create binary classification target:  
+   - `1` = Rating ≥ 7  
+   - `0` = Rating < 7
+4. Clean `Votes`, `Duration`, and other string columns
+5. Encode categorical columns (Genre, Director, Actors)
+6. Perform a train/test split (80/20 with stratification)
+7. Train the model using `RandomForestClassifier`
+8. Evaluate using:
+   - Accuracy
+   - Confusion Matrix
+   - Classification Report (Precision, Recall, F1-Score)
 
 ---
 
-## Machine Learning Model
+##  Machine Learning Model
 
-- **Model Used**: Random Forest Regressor
+- **Model Used**: Random Forest Classifier  
 - **Evaluation Metrics**:
-  - `Mean Squared Error (MSE)`
-  - `R² Score`
+  - Accuracy
+  - Precision
+  - Recall
+  - F1-Score
+  - Confusion Matrix
 
 ---
 
-## How to Run
+##  How to Run
 
-1. Clone/download the repo
+1. Clone or download the repo
 2. Place `IMDb Movies India.csv` in the same folder as the script
 3. Run the Python script:
 python Movie_rating_prediction.py
 
 ## Demo Video
-https://www.linkedin.com/posts/anushka-gulia-478106326_codsoft-machinelearning-python-activity-7349771652072660992-amwq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFI91xwBE6ISeZvYC5kxcw2BzyVWL_EQcuI 
+https://www.linkedin.com/posts/anushka-gulia-478106326_codsoft-machinelearning-python-activity-7349771652072660992-amwq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFI91xwBE6ISeZvYC5kxcw2BzyVWL_EQcuI
 
 ## ✍️ Author
 Anushka Gulia
 📧 Email: anushkagulia04@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/anushka-gulia-478106326
-🐙 GitHub: https://github.com/Anushka-gulia 
+🔗 LinkedIn: linkedin.com/in/anushka-gulia-478106326
+🐙 GitHub: github.com/Anushka-gulia
 
-## 📌 Hashtags
-#CodSoft #DataScience #MachineLearning #Python #IMDbPrediction #RandomForest #RegressionModel #Internship
+## Hashtags
+#CodSoft #DataScience #MachineLearning #Python #IMDbClassification #RandomForest #ClassificationModel #Internship 
 
-## Thank you CodSoft for the learning experience and real-world project exposure!
+## Thanks to CodSoft for this amazing learning opportunity and hands-on experience with real-world data science projects!
+
