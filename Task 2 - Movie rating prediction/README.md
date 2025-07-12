@@ -65,7 +65,7 @@ To predict movie ratings using a **Random Forest Regressor** model on the IMDb I
 python Movie_rating_prediction.py
 
 ## Demo Video
-🔗 Video demo link to be added here (LinkedIn/YouTube)
+https://www.linkedin.com/posts/anushka-gulia-478106326_codsoft-machinelearning-python-activity-7349771652072660992-amwq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFI91xwBE6ISeZvYC5kxcw2BzyVWL_EQcuI 
 
 ## ✍️ Author
 Anushka Gulia
