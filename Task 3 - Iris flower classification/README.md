@@ -75,7 +75,7 @@ python iris_classification.py
 Ensure the required libraries are installed:
 pip install pandas numpy matplotlib seaborn scikit-learn
 ##  Demo Video
-📽️ Video demo link to be added here (LinkedIn or YouTube)
+https://www.linkedin.com/posts/anushka-gulia-478106326_codsoft-datascience-machinelearning-activity-7350171559325523968-oENH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFI91xwBE6ISeZvYC5kxcw2BzyVWL_EQcuI
 
 ## ✍️ Author
 Anushka Gulia
